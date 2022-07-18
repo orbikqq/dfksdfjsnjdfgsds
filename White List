@@ -1,4 +1,3 @@
 local Whitelisted = {
 1715561442
 }
-return Whitelisted
